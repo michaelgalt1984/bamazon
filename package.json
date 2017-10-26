@@ -1,0 +1,23 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "A customer interface to see what products are available and order them.",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelgalt1984/bamazon.git"
+  },
+  "author": "Michael Nedwick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaelgalt1984/bamazon/issues"
+  },
+  "homepage": "https://github.com/michaelgalt1984/bamazon#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "mysql": "^2.15.0"
+  }
+}
